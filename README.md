@@ -4,7 +4,7 @@
 
 I’m a **Software Engineer and AI Engineer** focused on building practical software, intelligent systems, and technology-driven products that solve real-world problems.
 
-My work sits at the intersection of **software engineering, artificial intelligence, automation, and entrepreneurship**. I enjoy taking a problem from an idea to a working solution—from understanding the requirements and designing the system to developing, deploying, testing, and continuously improving it.
+My work sits at the intersection of **software engineering, artificial intelligence, automation, and entrepreneurship**. I enjoy taking a problem from an idea to a working solution, from understanding the requirements and designing the system to developing, deploying, testing, and continuously improving it.
 
 I’m particularly interested in how AI can be integrated into everyday software to make systems more intelligent, useful, and efficient.
 
@@ -76,7 +76,7 @@ The system is built with **Django and PostgreSQL** and provides functionality fo
 
 
 
-###  Allen Pearl Naturals — APN
+### 🪴 Allen Pearl Naturals — APN
 
 **Allen Pearl Naturals (APN)** is my health and wellness brand and an important part of my long-term vision for combining **technology, entrepreneurship, and wellness**.
 
@@ -164,18 +164,18 @@ It's about solving problems, making thoughtful technical decisions, learning con
 
 I'm interested in:
 
-Artificial Intelligence
-Software Engineering
-Automation
-Entrepreneurship
-Product Development
-Health & Wellness Technology
-Problem Solving
-Innovation
-Building for real-world impact
- Let's Connect
+Artificial Intelligence |
+Software Engineering |
+Automation |
+Entrepreneurship |
+Product Development |
+Health & Wellness Technology |
+Problem Solving |
+Innovation |
+Building for real-world impact. 
+Let's Connect
 
-I'm always interested in connecting with people working in software engineering, AI, automation, entrepreneurship, and technology-driven problem solving.
+I'm always interested in connecting with people working in software engineering, AI, automation, Health and Wellness,  entrepreneurship, and technology-driven problem solving.
 
 Find me here:
 
