@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Allen Nakalema
+#  Hi, I'm Allen Nakalema
 
 ### Software Engineer | AI Engineer | Builder | Founder of Allen Pearl Naturals (APN)
 
@@ -138,7 +138,7 @@ APN represents another side of my interests: **building products, understanding 
 Long term, I’m interested in creating technology-driven products that combine software, AI, entrepreneurship, and meaningful real-world impact.
 
 
-## 🛠️ My Development Philosophy
+##  My Development Philosophy
 
 Problem
    ↓
@@ -180,10 +180,10 @@ I'm always interested in connecting with people working in software engineering,
 Find me here:
 
  LinkedIn:
-Allen Nakalema
+https://www.linkedin.com/in/allen-nakalema-99b8373aa/
 
  GitHub:
-@allennakalema06-web
+https://github.com/allennakalema06-web/
 
  A Little More About My Journey
 
@@ -197,4 +197,4 @@ I want to build things that work, matter, and create value.
 
  Building. Learning. Solving. Improving.
 
-— Allen Nakalema
+ Allen Nakalema
