@@ -206,26 +206,6 @@ Building for real-world impact.
 
 Let's Connect
 
-<h2 align="center"> My GitHub Contributions</h2>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/allennakalema06-web/allennakalema06-web/output/github-contribution-grid-snake-dark.svg"
-  >
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/allennakalema06-web/allennakalema06-web/output/github-contribution-grid-snake.svg"
-  >
-
-  <img
-    src="https://raw.githubusercontent.com/allennakalema06-web/allennakalema06-web/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="900"
-  >
-</picture>
-
 I'm always interested in connecting with people working in software engineering, AI, automation, Health and Wellness,  entrepreneurship, and technology-driven problem solving.
 
 Find me here:
