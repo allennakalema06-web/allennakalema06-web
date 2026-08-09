@@ -1,6 +1,12 @@
-#  Hi, I'm Allen Nakalema
+<h1 align="center">Hi 👋, I'm Allen Nakalema</h1>
 
-### Software Engineer | AI Engineer | Builder | Founder of Allen Pearl Naturals (APN)
+<h3 align="center">
+Software Engineer • AI Engineer • Builder • Founder of Allen Pearl Naturals (APN)
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+Engineer;Python+%7C+Django+%7C+AI+Automation;Building+Practical+Software+Solutions;Exploring+Intelligent+Systems;Founder+of+Allen+Pearl+Naturals+(APN)" />
+</p>
 
 I’m a **Software Engineer and AI Engineer** focused on building practical software, intelligent systems, and technology-driven products that solve real-world problems.
 
@@ -29,6 +35,10 @@ My approach is simple:
 
 ##  Engineering & Technology
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,postgres,sqlite,git,github,vscode" />
+</p>
+
 ### Programming & Web Development
 
 - Python
@@ -42,13 +52,20 @@ My approach is simple:
 - PostgreSQL
 - SQLite
 
-### AI & Automation
+###  AI & Automation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Automation-1F6FEB?style=for-the-badge" />
+</p>
 
 - Large Language Model applications
 - AI APIs
 - Prompt Engineering
 - AI Automation
-- RAG applications
+- Retrieval-Augmented Generation (RAG)
 - AI Agents
 - Intelligent workflows
 
@@ -156,6 +173,19 @@ Learn
    ↓
 Improve
 
+##  GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=allennakalema06-web&show_icons=true&hide_border=true&theme=transparent" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allennakalema06-web&hide_border=true&theme=transparent" height="180"/>
+</p>
+
+##  Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allennakalema06-web&theme=github-compact&hide_border=true&area=true" width="100%"/>
+</p>
+
 I don't believe software engineering is just about writing code.
 
 It's about solving problems, making thoughtful technical decisions, learning continuously, and building systems that people can actually use.
@@ -173,7 +203,12 @@ Health & Wellness Technology |
 Problem Solving |
 Innovation |
 Building for real-world impact. 
+
 Let's Connect
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/allennakalema06-web/allennakalema06-web/output/github-contribution-grid-snake.svg" />
+</p>
 
 I'm always interested in connecting with people working in software engineering, AI, automation, Health and Wellness,  entrepreneurship, and technology-driven problem solving.
 
@@ -198,3 +233,4 @@ I want to build things that work, matter, and create value.
  Building. Learning. Solving. Improving.
 
  Allen Nakalema
+ 
