@@ -212,6 +212,7 @@ Find me here:
 
  LinkedIn:
 https://www.linkedin.com/in/allen-nakalema-99b8373aa/
+
 Portfolio:
 https://allen-nakalema.pages.dev/
 
