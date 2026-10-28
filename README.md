@@ -1,58 +1,76 @@
 <h1 align="center">Hi 👋, I'm Allen Nakalema</h1>
 
 <h3 align="center">
-Software Engineer • AI Engineer • Builder • Founder of Allen Pearl Naturals (APN)
+Software Engineer • AI Engineer • Product Builder • Founder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+Engineer;Python+%7C+Django+%7C+AI+Automation;Building+Practical+Software+Solutions;Exploring+Intelligent+Systems;Founder+of+Allen+Pearl+Naturals+(APN)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Python+%7C+Django+%7C+PostgreSQL;AI+%7C+Software+%7C+IoT;Building+Practical+Software+Systems;Exploring+Intelligent+%26+Connected+Systems;Building+Technology+Around+Real-World+Problems" />
 </p>
 
-I’m a **Software Engineer and AI Engineer** focused on building practical software, intelligent systems, and technology-driven products that solve real-world problems.
+<p align="center">
+  <a href="https://allen-nakalema.pages.dev/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VIEW_MY_WORK-0B1220?style=for-the-badge&logo=cloudflare&logoColor=22D3EE" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/allen-nakalema-99b8373aa/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/allennakalema06-web">
+    <img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_CODE-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" height="32" />
+  </a>
+</p>
 
-My work sits at the intersection of **software engineering, artificial intelligence, automation, and entrepreneurship**. I enjoy taking a problem from an idea to a working solution, from understanding the requirements and designing the system to developing, deploying, testing, and continuously improving it.
+---
 
-I’m particularly interested in how AI can be integrated into everyday software to make systems more intelligent, useful, and efficient.
+## About Me
 
+I’m a **Software Engineer and AI Engineer** focused on building practical software systems, intelligent applications, and technology-driven products around real-world problems.
 
-##  What I Build
+I enjoy working across the full development process — understanding a problem, designing the system, building the frontend and backend, working with databases and APIs, testing, deploying, and improving the product based on what I learn.
 
-I enjoy building solutions around:
+My interests sit at the intersection of:
 
--  AI-powered applications
--  AI automation and intelligent workflows
--  Web applications and backend systems
--  API integrations and AI-powered services
--  Business and data management systems
--  Digital solutions for businesses
--  Health and wellness technology
--  Products built around real-world problems
+- Software engineering
+- Artificial intelligence
+- Backend and full-stack development
+- Automation
+- Product development
+- Entrepreneurship
+- Technology for businesses and communities
 
-My approach is simple:
+I’m particularly interested in how **AI can become part of useful everyday software**, not simply as a feature added for the sake of AI, but as a tool for improving decisions, workflows, access to information, and user experiences.
 
-> **Understand the problem → Design the solution → Build → Test → Deploy → Improve**
+> **Understand the problem → Design the solution → Build → Test → Deploy → Learn → Improve**
 
+---
 
 ##  Engineering & Technology
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,postgres,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,html,css,postgres,sqlite,git,github,vscode" />
 </p>
 
-### Programming & Web Development
+### Programming & Application Development
 
 - Python
 - JavaScript
+- TypeScript
 - HTML5
 - CSS3
 - Django
+- React
+- REST APIs
 
 ### Databases
 
 - PostgreSQL
+- Neon PostgreSQL
 - SQLite
+- Relational database design
 
-###  AI & Automation
+### AI & Intelligent Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge" />
@@ -61,105 +79,257 @@ My approach is simple:
   <img src="https://img.shields.io/badge/AI_Automation-1F6FEB?style=for-the-badge" />
 </p>
 
-- Large Language Model applications
-- AI APIs
-- Prompt Engineering
-- AI Automation
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Intelligent workflows
+I’m actively developing my understanding of:
+
+- AI application development
+- LLM-powered systems
+- Retrieval-Augmented Generation
+- AI agents
+- Agentic workflows
+- AI automation
+- API integrations
+- Backend engineering
+- Software architecture
+- Database design
+- Internet of Things
+- Embedded systems
+- Sensor-based system design
+- Hardware-software integration
+- Application security
+- Testing
+- Cloud deployment
+- Reliable AI integration
 
 ### Development & Deployment
 
 - Git
 - GitHub
 - VS Code
-- Render
-- REST APIs
+- Vercel
+- Cloudflare
+- Neon PostgreSQL
+- Cloud deployment
+- Environment configuration
+- Application testing
+- REST API integration
 
+---
 
-##  Featured Projects
+### 🤖 IoT & Embedded Systems
 
-### 🏗️ Nyondo Stock System
+I’m also developing hands-on experience in **Internet of Things and embedded systems**, exploring how software can interact with physical environments through sensors, microcontrollers, and actuators.
 
-A web-based inventory, sales, and business management system designed for a hardware business.
+My current work includes:
 
-The system is built with **Django and PostgreSQL** and provides functionality for managing products, inventory, users, sales, and business operations.
+- Arduino Uno development
+- Sensor integration
+- Environmental and motion sensing
+- Ultrasonic and infrared sensing
+- Light, temperature, sound, gas, and flame sensing
+- Buzzers, LEDs, relays, servos, and other actuators
+- Embedded decision logic
+- Hardware prototyping with breadboards
+- Designing sensor-based systems around real-world problems
+
+I’m particularly interested in combining **software, AI, and IoT** to build systems that can observe physical conditions, make useful decisions, and respond intelligently.
+
+#  Featured Projects
+
+## 🏗️ Nyondo Stock System
+
+A full-stack, role-based inventory, sales, and business management system built around the operational needs of a hardware business.
+
+The system supports:
+
+- Product and inventory management
+- Stock registration and stock adjustments
+- Supplier management
+- Supplier credit tracking
+- Customer management
+- Sales and receipts
+- Transport handling
+- Business reporting
+- Role-based access for Admin, Manager, and Attendant users
+
+The application is deployed publicly with dedicated demo accounts so visitors can explore the different role experiences.
 
 **Technologies:**  
-`Python` `Django` `PostgreSQL` `HTML` `CSS` `JavaScript`
+`Python` `Django` `PostgreSQL` `Neon` `HTML` `CSS` `JavaScript` `Vercel`
 
-🔗 [View Project](https://github.com/allennakalema06-web/Nyondo-stock-system)
+<p>
+  <a href="https://nyondo-stock-system.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-OPEN_APPLICATION-0B1220?style=for-the-badge&logo=vercel&logoColor=22D3EE" height="31" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/allennakalema06-web/Nyondo-stock-system">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" height="31" />
+  </a>
+</p>
 
+> Demo credentials for Admin, Manager, and Attendant are available directly on the login page.
 
+---
 
-### 🪴 Allen Pearl Naturals — APN
+##  UgSL AI Practice Coach
 
-**Allen Pearl Naturals (APN)** is my health and wellness brand and an important part of my long-term vision for combining **technology, entrepreneurship, and wellness**.
+An AI-focused component of a larger **Ugandan Sign Language learning platform**.
 
-The APN digital presence explores how technology can support the development of modern health and wellness products and experiences.
+My work focuses on building the AI practice coach and preparing it for integration with the platform's frontend and backend.
 
-🔗 [Visit APN on GitHub](https://github.com/allennakalema06-web/Health-website)
+The broader platform is designed around learning, practice, progress tracking, quizzes, certificates, communities, and accessible Ugandan Sign Language education.
 
+My work on the AI coach includes areas such as:
 
+- AI-assisted learner practice
+- Backend service design
+- API integration
+- Safe handling of temporary media
+- Testing and reliability
+- Preparing AI functionality for integration into a larger product
 
-###  ParkEase
+**Focus:**  
+`Python` `AI Engineering` `APIs` `LLM Applications` `Backend Engineering`
 
-A practical software project focused on solving problems around parking management and improving the experience of managing parking spaces.
+<p>
+  <a href="https://github.com/allennakalema06-web/ugsl-ai-practice-coach">
+    <img src="https://img.shields.io/badge/UGSL_AI_COACH-VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" height="31" />
+  </a>
+</p>
+
+---
+
+##  ParkEase
+
+A Django-based parking and vehicle-service management system designed to manage parking operations and related services from one application.
+
+The system includes:
+
+- Parking check-in and checkout
+- Role-based dashboards
+- Parking attendants and section managers
+- Receipts
+- Tyre services
+- Battery services
+- Service pricing
+- Revenue tracking
+- Operational reports
+
+The project helped me work more deeply with role-based workflows, business logic, data modelling, reporting, and complete Django application flows.
 
 **Technologies:**  
-`HTML` `CSS` `Web Development`
+`Python` `Django` `SQLite` `HTML` `CSS` `JavaScript`
 
-🔗 [View Project](https://github.com/allennakalema06-web/parkease)
+<p>
+  <a href="https://github.com/allennakalema06-web/parkease">
+    <img src="https://img.shields.io/badge/PARKEASE-VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" height="31" />
+  </a>
+</p>
 
+---
 
+## 🌿 Allen Pearl Naturals — APN
 
-##  Currently Building My Expertise In
+**Allen Pearl Naturals (APN)** is a health and wellness venture I’m building around a broader vision of helping people take structured, practical actions toward improving their wellbeing.
 
-My current engineering focus is on developing deeper expertise in **AI engineering and intelligent software systems**.
+APN represents another side of my work: combining **technology, entrepreneurship, product thinking, user understanding, and wellness**.
 
-Areas I'm exploring and building with include:
+The long-term direction goes beyond publishing information. I’m exploring how digital systems can guide people through structured health journeys, tools, services, and experiences.
+
+<p>
+  <a href="https://github.com/allennakalema06-web/Health-website">
+    <img src="https://img.shields.io/badge/ALLEN_PEARL_NATURALS-EXPLORE_APN-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" height="31" />
+  </a>
+</p>
+
+---
+
+#  Currently Building My Expertise In
+
+My current engineering focus is on going deeper into **AI engineering and intelligent software systems** while continuing to strengthen my software engineering foundations.
+
+I’m actively developing my understanding of:
 
 - AI application development
-- LLM-powered applications
-- Retrieval-Augmented Generation (RAG)
-- AI agents and agentic workflows
+- LLM-powered systems
+- Retrieval-Augmented Generation
+- AI agents
+- Agentic workflows
 - AI automation
 - API integrations
-- Software architecture
 - Backend engineering
+- Software architecture
 - Database design
-- Cloud deployment
 - Application security
+- Internet of Things & embedded systems
+- Testing
+- Cloud deployment
+- Reliable AI integration
 
-The goal is not simply to use AI tools, but to understand **how intelligent systems work and how to engineer them into reliable software products**.
+My goal is not simply to know how to call an AI API.
 
+I want to understand **how intelligent systems are designed, how their components interact, how they fail, how they are evaluated, and how they can be integrated into reliable software products.**
 
-##  What Drives Me
+---
+
+# 🌍 Open Source & Engineering Beyond Personal Projects
+
+I also spend time learning through open-source contribution.
+
+Working with existing codebases challenges me to understand systems I did not design myself, follow project conventions, investigate issues carefully, and make changes without breaking existing behaviour.
+
+Some of my open-source work has involved:
+
+- CI and workflow improvements
+- Android-related project work
+- Responsive interface improvements
+- Investigating issues in unfamiliar repositories
+- Git branching, pull requests, and collaborative engineering workflows
+
+I value open source because it develops a different engineering skill from building something alone: **learning how to contribute responsibly inside an existing system.**
+
+---
+
+# 💡 What Drives Me
 
 I’m fascinated by problems that sit between **technology and real life**.
 
-Whether it's helping a business manage inventory, automating repetitive work, improving access to information, or exploring technology in health and wellness, I enjoy asking:
+I’m especially drawn to questions like:
 
-> **"What problem are people experiencing, and how can technology make it better?"**
+> **What problem are people experiencing, why does it exist, and how can technology make the situation meaningfully better?**
 
-I believe good engineering starts with understanding the problem—not with choosing a programming language.
+That might mean helping a business understand its operations, improving access to information, automating repetitive work, designing an AI assistant, or building technology around health and wellness.
 
+I believe good engineering begins with understanding the problem — not with choosing a programming language.
 
-##  Beyond Software
+---
 
-I’m also the founder of **Allen Pearl Naturals (APN)**, a health and wellness venture.
+#  How I Think About Engineering
 
-APN represents another side of my interests: **building products, understanding users, entrepreneurship, and exploring the relationship between technology and wellness**.
+I like understanding both **how** something works and **why** it was designed that way.
 
-Long term, I’m interested in creating technology-driven products that combine software, AI, entrepreneurship, and meaningful real-world impact.
+When I build, I try to think beyond:
 
+> “Does the code run?”
 
-##  My Development Philosophy
+and ask:
 
+- Does it solve the intended problem?
+- Why was this architecture chosen?
+- What happens when the system grows?
+- What assumptions are we making?
+- What can fail?
+- Is the experience understandable for the user?
+- Can another developer maintain it?
+- Is there a simpler or stronger approach?
+
+My development loop looks like this:
+
+```text
 Problem
    ↓
 Understand
+   ↓
+Research
    ↓
 Design
    ↓
@@ -169,67 +339,98 @@ Test
    ↓
 Deploy
    ↓
+Observe
+   ↓
 Learn
    ↓
 Improve
+```
 
-##  GitHub Activity
+---
+
+# 🌱 Beyond Software Engineering
+
+I’m also interested in:
+
+`Artificial Intelligence` •
+`Entrepreneurship` •
+`Product Development` •
+`Automation` •
+`Health & Wellness Technology` •
+`Internet of Things & embedded systems` •
+`Problem Solving` •
+`Innovation` •
+`Human-Centered Technology`
+
+Building software is one part of what interests me.
+
+I’m also interested in **why products should exist, who they are for, how people interact with them, what makes a system genuinely useful, and how technology can create meaningful real-world value.**
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=allennakalema06-web&show_icons=true&hide_border=true&theme=transparent" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=allennakalema06-web&hide_border=true&theme=transparent" height="180"/>
 </p>
 
-##  Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=allennakalema06-web&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </p>
 
-I don't believe software engineering is just about writing code.
+---
 
-It's about solving problems, making thoughtful technical decisions, learning continuously, and building systems that people can actually use.
+# 🤝 Let's Connect
 
- Beyond the Code
+I enjoy connecting with people working in:
 
-I'm interested in:
+- Software engineering
+- Artificial intelligence
+- Automation
+- Open source
+- Product development
+- Entrepreneurship
+- Health and wellness technology
+- Internet of Things & embedded systems
+- Technology-driven problem solving
 
-Artificial Intelligence |
-Software Engineering |
-Automation |
-Entrepreneurship |
-Product Development |
-Health & Wellness Technology |
-Problem Solving |
-Innovation |
-Building for real-world impact. 
+<p align="center">
+  <a href="https://www.linkedin.com/in/allen-nakalema-99b8373aa/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://allen-nakalema.pages.dev/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE_MY_WORK-0B1220?style=for-the-badge&logo=cloudflare&logoColor=22D3EE" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/allennakalema06-web/">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW_MY_WORK-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" height="32" />
+  </a>
+</p>
 
-Let's Connect
+---
 
-I'm always interested in connecting with people working in software engineering, AI, automation, Health and Wellness,  entrepreneurship, and technology-driven problem solving.
+## A Little More About My Journey
 
-Find me here:
+My journey into software engineering began with learning programming fundamentals and gradually moved into building complete applications around practical problems.
 
- LinkedIn:
-https://www.linkedin.com/in/allen-nakalema-99b8373aa/
+Since then, I’ve worked on business systems, role-based web applications, AI-focused projects, product ideas, open-source contributions, and deployed software.
 
-Portfolio:
-https://allen-nakalema.pages.dev/
+I’m continuing to deepen both sides of my engineering ability:
 
- GitHub:
-https://github.com/allennakalema06-web/
-
- A Little More About My Journey
-
-My journey into software engineering started with learning the fundamentals of programming and gradually grew into building complete applications and solving practical problems with software.
-
-Today, I'm taking that foundation further by exploring AI engineering, automation, intelligent applications, and product development.
+**understanding difficult problems deeply and becoming increasingly capable of implementing strong technical solutions to them.**
 
 I’m not interested in building technology simply for the sake of technology.
 
-I want to build things that work, matter, and create value.
+I want to build things that **work, matter, and create value.**
 
- Building. Learning. Solving. Improving.
+<p align="center">
+  <strong>Building. Learning. Solving. Improving.</strong>
+</p>
 
- Allen Nakalema
- 
+<p align="center">
+  Allen Nakalema
+</p>
